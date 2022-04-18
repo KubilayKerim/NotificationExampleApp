@@ -1,0 +1,6 @@
+module Pods_NotificationExampleApp_NotificationExampleAppTests {
+  umbrella header "Pods-NotificationExampleApp-NotificationExampleAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
